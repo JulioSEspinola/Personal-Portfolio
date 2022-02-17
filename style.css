@@ -57,10 +57,6 @@ body {
     position: static;
     text-align: center;
 }
-.about h1{
-    margin-bottom: 15px;
-    text-shadow: 3px 3px #7c7c7c;
-}
 
 .nav-bar {
     top: 0;
@@ -113,10 +109,6 @@ body {
     padding-bottom: 50px;
 }
 
-.services h2 {
-    margin-bottom: 15px;
-    text-shadow: 3px 3px #7c7c7c;
-}
 
 .services-box {
     background: #f9f9f9;
